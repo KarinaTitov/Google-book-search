@@ -4,10 +4,12 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "server.js",
   "dependencies": {
-    "mongoose": "^5.9.18",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19",
     "react": "^16.13.1",
-    "react-scripts": "^3.4.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
   },
   "devDependencies": {},
   "scripts": {
